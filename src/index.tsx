@@ -3,7 +3,12 @@ import { render } from "react-dom";
 
 import App from "./app";
 
-const element = document.createElement("div");
-document.body.appendChild(element);
+let appRoot = document.getElementById("app");
+if (!appRoot) {
+  appRoot = document.createElement("div");
+  appRoot.setAttribute("id", "app");
 
-render(<App />, element);
+  document.body.insertBefore(appRoot, document.body.firstChild);
+}
+
+render(<App />, appRoot);
