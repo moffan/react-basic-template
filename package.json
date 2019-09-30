@@ -1,7 +1,7 @@
 {
   "name": "test-lab",
   "version": "0.0.0",
-  "author": "morten foshaug <mortefos@gmail.com>",
+  "author": "morten foshaug <938091+mortefos@users.noreply.github.com>",
   "license": "ISC",
   "scripts": {
     "start": "webpack-dev-server",
