@@ -6,5 +6,6 @@
     "esModuleInterop": true,
     "jsx": "react",
     "lib": ["dom", "esnext"]
-  }
+  },
+  "exclude": ["./node_modules", "./dist"]
 }
