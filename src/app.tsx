@@ -1,5 +1,5 @@
-import React from "react";
+import React, { FunctionComponent } from "react";
 
-const App = () => <div>it just works!</div>;
+const App: FunctionComponent = () => <div>it just works!</div>;
 
 export default App;
