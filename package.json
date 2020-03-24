@@ -8,23 +8,23 @@
     "build": "webpack"
   },
   "dependencies": {
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/preset-env": "^7.8.4",
-    "@babel/preset-react": "^7.8.3",
-    "@babel/preset-typescript": "^7.8.3",
-    "@types/react": "^16.9.19",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/react": "^16.9.25",
     "@types/react-dom": "^16.9.5",
-    "babel-loader": "^8.0.6",
-    "html-webpack-plugin": "^3.2.0",
-    "tslint": "^6.0.0",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.0.1",
+    "tslint": "^6.1.0",
     "tslint-config-prettier": "^1.18.0",
-    "typescript": "^3.7.5",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.10.2"
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
   }
 }
