@@ -21,6 +21,8 @@ This is intended as a playground for testing out ideas.
 
 ## lint
 
+This has currently been removed and will be added back shortly
+
 - [eslint](https://eslint.org/)
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
